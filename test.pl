@@ -1,0 +1,3 @@
+foreach my $x (@array) {
+    # body...
+}
