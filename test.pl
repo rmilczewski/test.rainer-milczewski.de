@@ -1,6 +1,6 @@
 foreach my $x (@array) {
-        # body...
-print("$x");
+    # body...
+    print("$x");
 }
 
 while () {
